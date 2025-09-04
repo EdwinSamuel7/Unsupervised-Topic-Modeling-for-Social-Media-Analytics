@@ -1,4 +1,4 @@
-echo "# Jupyter Notebook
+# Jupyter Notebook
 .ipynb_checkpoints
 
 # Python
@@ -8,4 +8,7 @@ __pycache__/
 
 # Data files
 *.csv
-data/" > .gitignore
+data/
+
+# Large project folders
+TREC-Microblog-Datasets-master/
