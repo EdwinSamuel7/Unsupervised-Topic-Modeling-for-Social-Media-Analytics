@@ -57,7 +57,7 @@ The clustering process involves:
 
 - Implement automatic topic number selection using coherence scores
 - Add comprehensive evaluation metrics (silhouette analysis, perplexity)
-- Integrate modern embedding techniques (BERT, Word2Vec)
+- Integrate other modern embedding techniques
 - Enhance preprocessing with lemmatization and Named Entity Recognition
 - Develop parameter optimization for different datasets
 - Add visualization components for topic distributions
