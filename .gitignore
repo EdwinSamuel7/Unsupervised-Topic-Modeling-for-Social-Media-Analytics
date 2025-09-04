@@ -1,0 +1,11 @@
+echo "# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.csv
+data/" > .gitignore
